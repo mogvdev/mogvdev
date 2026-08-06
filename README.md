@@ -9,11 +9,12 @@
 <br>
 
 <h2 align>Hi,  I'm Anne Caroline!</h2><br>
-<p> mogvdev@gmail.com</p>  
+<p> ✉️ mogvdev@gmail.com</p>  
 
 <p align>
 💻 Software Engineering Student<br>
 📍 Brasil<br>
 🌱 Currently learning C, Python<br>
-💡 Always learning, always exploring</p>
+💡 Always learning, always exploring<br>
+LINKEDIN: bit.ly/3RPaKW4</p>
 </p>
