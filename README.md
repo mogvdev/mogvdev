@@ -8,12 +8,12 @@
 </p>
 <br>
 
-<h2 align>Hi, I'm Anne Caroline!</h2><br>
-<p>mogvdev@gmail.com</p>  
+<h2 align>Hi,  I'm Anne Caroline!</h2><br>
+<p> mogvdev@gmail.com</p>  
 
 <p align>
 💻 Software Engineering Student<br>
 📍 Brasil<br>
-🌱 Currently learning C, Python</p> 
+🌱 Currently learning C, Python<br>
+💡 Always learning, always exploring</p>
 </p>
-,
