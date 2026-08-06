@@ -4,8 +4,10 @@
 
 <br>
 
-<h1 align="center">Hi, I'm Anne </h1>
+<h1 align="center">Hi, I'm Anne Caroline</h1>
 
 <p align="center">
-Software Engineering Student • C 
+💻 Software Engineering Student
+📍 Brasil
+🌱 Currently learning C, Phytom 
 </p>
