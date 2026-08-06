@@ -16,5 +16,7 @@
 📍 Brasil<br>
 🌱 Currently learning C, Python<br>
 💡 Always learning, always exploring<br>
-LINKEDIN: bit.ly/3RPaKW4</p>
+  <a href="https://bit.ly/3RPaKW4">
+    💼 LinkedIn
+  </a>
 </p>
