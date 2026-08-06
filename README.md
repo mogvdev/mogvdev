@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi, I'm Anne Caroline</h1>
 
-<p align="center">
+<p align>
 💻 Software Engineering Student<br>
 📍 Brasil<br>
 🌱 Currently learning C, Phyton</p> 
