@@ -8,8 +8,8 @@
 </p>
 <br>
 
-<h1 align>Hi, I'm Anne Caroline!</h1>
-<h2>mogvdev@gmail.com</h2>
+<p><h2 align>Hi, I'm Anne Caroline!</h2>
+<h4>mogvdev@gmail.com</h4></p>  
 
 <p align>
 💻 Software Engineering Student<br>
