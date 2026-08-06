@@ -17,6 +17,6 @@
 🌱 Currently learning C, Python<br>
 💡 Always learning, always exploring<br>
   <a href="https://bit.ly/3RPaKW4">
-    💼 LinkedIn
+    💼  LinkedIn
   </a>
 </p>
