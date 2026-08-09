@@ -30,7 +30,6 @@
 
 ---
 
-## 🚀 Featured Projects
 
 ### 📌 Linguagens e Técnicas de Programação
 
