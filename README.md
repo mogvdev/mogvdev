@@ -13,7 +13,7 @@
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,vscode" />
 </p>
 
 ---
