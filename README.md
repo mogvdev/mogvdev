@@ -24,7 +24,6 @@
 - Python
 - Programming Logic
 - Algorithms & Data Structures
-- Git & GitHub
 - Software Development
 
 ---
