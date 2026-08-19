@@ -10,17 +10,11 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,python,vscode" />
 </p>
-
-
-### 📌 Linguagens e Técnicas de Programação
-
-Exercises and projects developed during my studies in **C programming**, covering programming fundamentals, logic and problem solving.\n
-
 
 
 ## 📫 Connect with me
