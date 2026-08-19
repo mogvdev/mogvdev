@@ -4,8 +4,6 @@
 
 ### Software Engineering Student
 
-🎓 Software Engineering student from Brazil.
-
 💻 Currently learning **C and Python**, with a focus on programming logic, problem solving and algorithms.
 
 🌱 Learning by building projects, practicing and exploring new technologies.
