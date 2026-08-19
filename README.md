@@ -21,7 +21,7 @@
 
 Exercises and projects developed during my studies in **C programming**, covering programming fundamentals, logic and problem solving.
 
----
+
 
 ## 📫 Connect with me
 
