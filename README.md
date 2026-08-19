@@ -2,6 +2,7 @@
   <img src="banner.jpeg" width="100%">
 </p>
 
+
 ### Software Engineering Student from Brazil
 
 💻 Aprendendo **C e Python**.
