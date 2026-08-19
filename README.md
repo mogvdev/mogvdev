@@ -2,7 +2,7 @@
   <img src="banner.jpeg" width="100%">
 </p>
 
-### Software Engineering Student
+### Software Engineering Student from Brazil
 
 💻 Currently learning **C and Python**, with a focus on programming logic, problem solving and algorithms.
 
