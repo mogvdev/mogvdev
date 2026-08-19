@@ -19,7 +19,7 @@
 
 ### 📌 Linguagens e Técnicas de Programação
 
-Exercises and projects developed during my studies in **C programming**, covering programming fundamentals, logic and problem solving.
+Exercises and projects developed during my studies in **C programming**, covering programming fundamentals, logic and problem solving.\n
 
 
 
