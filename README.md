@@ -16,8 +16,6 @@
   <img src="https://skillicons.dev/icons?i=c,python,vscode" />
 </p>
 
----
-
 
 ### 📌 Linguagens e Técnicas de Programação
 
