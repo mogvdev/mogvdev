@@ -6,7 +6,6 @@
 ## Software Engineering Student from Brazil
 
 
-
 💻 TI Junior - SHOMER Portaria Remota 
 
 📚 Aprendendo **C e Python**.
