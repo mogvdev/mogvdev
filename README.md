@@ -27,5 +27,5 @@
 
 📧 **mogvdev@gmail.com**
 
-💼 **LinkedIn:** [Connect with me](https://bit.ly/3RPaKW4)
+💼 **LinkedIn:** [🌀](www.linkedin.com/in/annemogv)
 
