@@ -19,7 +19,7 @@
 ## 🛠️ Tech & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,vscode,javascript" />
 </p>
 
 
