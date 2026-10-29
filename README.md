@@ -29,3 +29,5 @@
 
 💼 **LinkedIn:** [🌀](https://www.linkedin.com/in/annemogv?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
+📸 **Instagram** [🌀](https://www.instagram.com/mogv_/)
+
