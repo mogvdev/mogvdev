@@ -9,7 +9,7 @@
 
 💻 TI Junior - SHOMER Portaria Remota 
 
-📚 Mexendo com **Automação de IA**.
+👾 Mexendo com **Automação de IA**.
 
 🌱 Aprendendo a construir projetos, praticar e explorar novas tecnologias.
 
