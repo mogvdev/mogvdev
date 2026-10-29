@@ -9,7 +9,7 @@
 
 💻 TI Junior - SHOMER Portaria Remota 
 
-📚 Aprendendo **C e Python**.
+📚 Mexendo um pouco com **C, Python, JavaScript, HTML, CSS**.
 
 🌱 Aprendendo a construir projetos, praticar e explorar novas tecnologias.
 
@@ -19,7 +19,7 @@
 ## 🛠️ Tech & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,vscode,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,python,vscode,javascript,html,css" />
 </p>
 
 
